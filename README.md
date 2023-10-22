@@ -1,4 +1,4 @@
-## Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding
+# Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding
 
 Pytorch Code for the paper "Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding". 
 
