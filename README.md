@@ -1,8 +1,15 @@
 # Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding
 
-Pytorch Code for the paper "Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding". 
+**[Uncompleted]** Pytorch code for the paper "Continual Cross-domain Image Compression via Entropy Prior Guided Knowledge Distillation and Scalable Decoding". 
 
-This repository is based on [CompressAI](https://github.com/InterDigitalInc/CompressAI).
+**TODO:**
+
+- [ ] Datasets
+- [ ] Models
+- [ ] Train code
+- [ ] Evaluation code
+
+> This repository is based on [CompressAI](https://github.com/InterDigitalInc/CompressAI).
 
 ## Installation
 
@@ -10,6 +17,7 @@ This repository is based on [CompressAI](https://github.com/InterDigitalInc/Comp
 conda create -n ccic python=3.7
 conda activate ccic
 pip install compressai
+pip install numpy==1.19.1
 pip install tqdm
 ```
 
